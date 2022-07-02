@@ -1,0 +1,18 @@
+{
+    "snake": {
+        "default size": 6,
+        "default radius" : 3,
+        "vision range": 150,
+        "vision arc": 200
+    },
+    "random distance factor": 2,
+    "chasing factor": 3,
+
+    "removal delay" : 10,
+    "initial snakes" : 15,
+    "reward per snake": 0.75,
+    "fps" : 12,
+
+    "player" : false,
+    "debug" : false
+}
