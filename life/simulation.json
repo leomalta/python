@@ -1,0 +1,18 @@
+{
+    "rule" : "B3S23",
+
+    "square size" : 5,
+    "proportion": [0.2, 1],
+    "max size": 15000,
+    "displacement" : 9,
+
+    "iterations": 1000000,
+    "advances" : 50,
+    "mutations" : 0.25,
+    "replacements" : 100,
+    "random inserts" : 100,
+
+    "metric" : "most parts",
+
+    "moving weight": 10
+}

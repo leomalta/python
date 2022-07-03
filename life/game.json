@@ -1,0 +1,7 @@
+{
+    "size" : 5,
+    "hshift" : 400,
+    "vshift" : 200,
+    "fps" : 10,
+    "simulate": true
+}
